@@ -4,9 +4,9 @@
 <br>
 <a href="https://github.com/seikyrooo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seikyrooo&count_private=true&show_icons=true&theme=chartreuse-dark" />
-  [![githubstreak](https://streak-stats.demolab.com/?user=seikyrooo&theme=dark)](https://git.io/streak-stats)
 </a>
-
+<br>
+(https://streak-stats.demolab.com/?user=seikyrooo&theme=dark)](https://git.io/streak-stats)
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently use laravel and use kotlin for android;
