@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Dwiko+Dany+Rananta)](https://git.io/typing-svg)
 <br>
 <br>
-![Dwiko GitHub stats]
 <a href="https://github.com/seikyrooo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seikyrooo&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
