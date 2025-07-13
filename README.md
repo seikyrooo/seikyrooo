@@ -13,4 +13,4 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via dwiko.dev@gmail.com to reach me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seikyrooo&layout=compact)](https://github.com/seikyrooo/github-readme-stats)
+[![Top Langs]<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8" />
